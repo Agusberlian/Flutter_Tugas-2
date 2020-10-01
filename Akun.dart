@@ -117,7 +117,7 @@ class Cont1 extends StatelessWidget {
                 ],
               ),
               margin: EdgeInsets.only(left: 80, top: 40),
-              width: 100,
+              width: 115,
               height: 90,
               child: Card(
                 child: Center(
@@ -141,7 +141,7 @@ class Cont1 extends StatelessWidget {
                 ],
               ),
               margin: EdgeInsets.only(left: 55, top: 40),
-              width: 100,
+              width: 115,
               height: 90,
               child: Card(
                 child: Center(
@@ -179,7 +179,7 @@ class Cont2 extends StatelessWidget {
                 ],
               ),
               margin: EdgeInsets.only(left: 80, top: 50),
-              width: 100,
+              width: 115,
               height: 90,
               child: Card(
                 child: Center(
@@ -203,7 +203,7 @@ class Cont2 extends StatelessWidget {
                 ],
               ),
               margin: EdgeInsets.only(left: 55, top: 50),
-              width: 100,
+              width: 115,
               height: 90,
               child: Card(
                 child: Center(
